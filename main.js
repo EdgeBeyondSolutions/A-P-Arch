@@ -104,7 +104,7 @@
     if (!target || target.children.length > 0 || !list) return;
     target.innerHTML = list.map(function (p, i) {
       var media = p.img
-        ? '<div class="art-block" style="--ar: 4/5;"><img src="' + escHTML(p.img) + '" alt="' + escHTML(p.name) + '" loading="lazy"></div>'
+        ? '<div class="art-block" style="--ar: ' + (i === 0 ? '16/9' : '4/3') + ';"><img src="' + escHTML(p.img) + '" alt="' + escHTML(p.alt || p.name) + '" loading="lazy" decoding="async"></div>'
         : '<div class="art-block" data-art="' + (i + 1) + '" data-art-tag="' + escHTML(p.category) + '"></div>';
       return '<article class="bento-item reveal' + (i === 0 ? " is-wide" : "") + '" data-category="' + escHTML(p.category) + '">' +
         media +
@@ -268,7 +268,7 @@
 
   function boot() {
     safe(mountServices, "mountServices");
-    safe(function () { mountProjects($("[data-projects]"), (data.projects || []).slice(0, 4)); }, "mountProjects");
+    safe(function () { mountProjects($("[data-projects]"), (data.projects || []).slice(0, 5)); }, "mountProjects");
     safe(function () { mountProjects($("[data-projects-full]"), data.projects); }, "mountProjectsFull");
     safe(mountTestimonials, "mountTestimonials");
     safe(mountFooterContact, "mountFooterContact");
