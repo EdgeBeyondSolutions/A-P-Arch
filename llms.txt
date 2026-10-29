@@ -1,10 +1,16 @@
 # AP Architects
 
-> People-oriented architecture firm founded in 1998 by Alvin G. Peters, serving San Antonio and the Texas Hill Country. Residential and commercial architecture, 3D visualization, and construction administration.
+> A people-oriented, comprehensive architecture firm serving San Antonio, Austin, and the South Texas area. Collaborative teams stay with each project through occupancy.
 
-## Pages
-- [Home](index.html): Overview, mission, and featured projects.
-- [Portfolio](portfolio.html): Residential and commercial project examples.
-- [Services](services.html): Full service list from site selection through construction administration.
-- [About](about.html): Firm history and team.
-- [Contact](contact.html): Contact form, phone, email, and office location.
+## Contact
+- Email: alvin.apa@gmail.com
+- Office: 210.544.7785
+- Cell: 210.781.3045
+
+## Services
+- Architectural Services: Accessibility Review, BIM Documentation, Code Analysis, Cost Estimating, Building Design, Permitting Coordination, Programming, Sustainability Consulting
+- Construction Services: Design Build Teaming, Pre-Design Surveys, Post Construction Surveys, Progress Inspections, Pay Application Certifications, Submittal Reviews
+
+## Site
+- [Home](index.html): Overview and services, with a menu for Brochures, Staff, Partners, Contact and office location, and Payments.
+- [Brochure (PDF)](ap-architects-brochure.pdf): One-page firm overview.
