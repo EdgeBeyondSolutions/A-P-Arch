@@ -4,12 +4,14 @@
 
 ## Contact
 - Email: alvin.apa@gmail.com
-- Office: 210.544.7785
+- Office: 210.685.6897
 - Cell: 210.781.3045
+- Cell: 210.544.7785
+- Office address: 1016 State Highway 46 E, Boerne, TX 78006
 
 ## Services
-- Architectural Services: Accessibility Review, BIM Documentation, Code Analysis, Cost Estimating, Building Design, Permitting Coordination, Programming, Sustainability Consulting
-- Construction Services: Design Build Teaming, Pre-Design Surveys, Post Construction Surveys, Progress Inspections, Pay Application Certifications, Submittal Reviews
+- Architectural Services: Programming, Building Design, BIM Documentation, Sustainability Consulting, Code Analysis, Permitting Coordination, Accessibility Review, Preliminary Cost Estimates
+- Construction Services: Design Build Teaming, Pre-Design Surveys, Progress Inspections, Pay Application Certifications, Submittal Reviews, Post Construction Surveys
 
 ## Site
 - [Home](index.html): Overview and services, with a menu for Brochures, Staff, Partners, Contact and office location, and Payments.

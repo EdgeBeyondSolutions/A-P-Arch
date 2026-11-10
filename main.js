@@ -83,7 +83,7 @@
     var form = document.getElementById("contact-form");
     var status = document.getElementById("form-status");
     if (!form || !status) return;
-    var fallback = "Your message was not sent. Please email alvin.apa@gmail.com or call 210.544.7785.";
+    var fallback = "Your message was not sent. Please email alvin.apa@gmail.com or call 210.685.6897.";
 
     function setStatus(msg, cls) { status.textContent = msg; status.className = "form-status " + (cls || ""); }
 
