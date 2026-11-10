@@ -9,6 +9,11 @@
 - Cell: 210.544.7785
 - Office address: 1016 State Highway 46 E, Boerne, TX 78006
 
+## Staff
+- Alvin G. Peters: Registered Architect and Founder
+- Miguel Palomar: Office Manager
+- Alex Miranda: Project Manager
+
 ## Services
 - Architectural Services: Programming, Building Design, BIM Documentation, Sustainability Consulting, Code Analysis, Permitting Coordination, Accessibility Review, Preliminary Cost Estimates
 - Construction Services: Design Build Teaming, Pre-Design Surveys, Progress Inspections, Pay Application Certifications, Submittal Reviews, Post Construction Surveys

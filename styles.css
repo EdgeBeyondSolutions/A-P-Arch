@@ -86,12 +86,15 @@ ul,ol{padding:0;list-style:none}
 .brochure-frame img{width:100%}
 
 /* ---------- Staff ---------- */
-.staff{position:relative;display:flex;flex-wrap:wrap;gap:2rem 4rem;align-items:flex-end;justify-content:space-between;min-height:28rem}
+.staff{position:relative;display:flex;flex-wrap:wrap;gap:2rem 4rem;align-items:flex-end;justify-content:space-between;min-height:20rem}
 .staff-name{font-size:clamp(2.75rem,7vw,6rem);font-weight:700;letter-spacing:-.04em;line-height:.95;margin-bottom:.75rem}
 .staff-role{font-size:1.5rem;color:#cfd5e1}
 .staff-links{margin-top:2rem;display:grid;gap:.4rem;font-size:1.25rem}
 .staff-links a{text-decoration:none;font-weight:700;width:fit-content;border-bottom:2px solid var(--gold)}
 .staff-links a:hover{background:rgba(224,165,38,.2)}
+.team{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:2rem 4rem;margin-top:3rem;padding-top:2rem;border-top:1px solid rgba(255,255,255,.25)}
+.member-name{font-size:clamp(1.75rem,3.4vw,2.75rem);font-weight:700;letter-spacing:-.03em;line-height:1}
+.member-role{margin-top:.6rem;font-size:1.25rem;color:#cfd5e1}
 .staff-mark{width:clamp(9rem,22vw,17rem);opacity:.9}
 
 /* ---------- Partners carousel ---------- */
